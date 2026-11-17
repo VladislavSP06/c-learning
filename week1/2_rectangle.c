@@ -7,7 +7,7 @@ int main(void) {
     int b;
     printf("b =");
     scanf("%d", &b);
-    int P = a + b;
+    int P = 2*(a + b);
     printf("P = %d\n", P);
     int S = a*b;
     printf("S = %d\n", S);
